@@ -9,9 +9,9 @@ int main() {
           cout << "i is: " << i << endl; 
      }
 
-     cout << "Hello 1" << endl;
-
-     cout << "Hello 1" << endl;
+     for(int j = 0; j <= 5; j++) {
+          cout << "j = " << j << endl;
+     }
 
      return "hello";
 }
